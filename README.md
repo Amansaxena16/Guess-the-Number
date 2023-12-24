@@ -1,2 +1,2 @@
 # Guess-the-Number
-"Guess the Number" is a simple Python game where players attempt to guess a randomly chosen number within a specified range. 
+"Guess the Number" is a simple Python game where players attempt to guess a randomly chosen number within a specified range. The game prompts the player to input their guess and provides clues (higher/lower) until the correct number is guessed or until the player reaches the maximum number of attempts. It's a fun and interactive way to practice Python programming basics and logical thinking. This repository contains the code for this game, providing an entertaining introduction to Python for beginners and a base for further enhancements and personalization.
